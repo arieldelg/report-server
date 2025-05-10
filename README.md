@@ -5,12 +5,12 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-## Pasos para instalacion
+# Pasos para instalacion
 
 1. npm install
 2. docker compose up -d
 
-# para poder usar prisma con base de datos
+## para poder usar prisma con base de datos
 
 1. npx prisma db pull
 1. npx prisma generated
