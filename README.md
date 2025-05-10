@@ -9,8 +9,9 @@
 
 1. npm install
 2. docker compose up -d
+3. clonar env.template y renombrar a env
 
 ## para poder usar prisma con base de datos
 
-1. npx prisma db pull
 1. npx prisma generated
+2. npx prisma db pull
